@@ -1,6 +1,10 @@
-# UX Portfolio
+# Abraham's UX Portfolio
 
-About me...
+![A photo of Abe](/assets/abeskiss.jpg)
+
+Hi I'm Abraham Hernandez and welcome! Here, you'll find a showcase of my UX design projects. Dive in and explore some of my work.
+
+Let's create better experiences together.
 
 ## UX Team Project
 
