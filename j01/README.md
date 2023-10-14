@@ -1,6 +1,4 @@
-# First Journal Entry...
-Title: Harmonizing Art and Music: Exploring Spotify's API and Third-Party Integrations
-
+# Harmonizing Art and Music: Exploring Spotify's API and Third-Party Integrations
 Abraham Hernandez | October 13, 2023
 
 Introduction:
