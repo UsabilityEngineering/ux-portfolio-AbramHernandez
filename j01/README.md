@@ -9,7 +9,7 @@ N-gen, a gem among third-party Spotify integrations, allows users to visualize t
 
 The brilliance of N-gen lies in its ability to turn raw data into something visually engaging. The Top Ten, Bloom, and Chord artwork options offer users a personalized touch to their Spotify experience. As a user, I appreciate the effortlessness of the process—from connecting Spotify to generating the artwork, N-gen ensures a smooth and enjoyable interaction.
 
-![N-Gen DNA Top Artists Last 6 Months](/ux-portfolio-AbramHernandez/assets/N-Gen%20DNA%20Top%20Artists%20Last%206%20Months.png)
+![N-Gen DNA Top Artists Last 6 Months](/assets/N-Gen%20DNA%20Top%20Artists%20Last%206%20Months.png)
 
 Spotify's Open Arms to Third-Party Creativity:
 What makes N-gen and similar platforms possible is Spotify's API, granting developers access to a treasure trove of user data. This open-door policy has birthed a variety of third-party integrations beyond just visualizations.
@@ -22,7 +22,7 @@ Beyond personal visualizations, I've discovered another intriguing app called Ai
 The integration is seamless—Airbuds taps into Spotify's API to fetch real-time data on my friends' listening habits. The widget on my homescreen acts as a musical window into their world, fostering a sense of shared musical discovery.
 
 ![Screenshot of my Homescreen](/assets/Homescreen.png)
-![Screenshot of Trending Songs with my Friends](ux-portfolio-AbramHernandez/assets/Trending%20songs.png)
+![Screenshot of Trending Songs with my Friends](/assets/Trending%20songs.png)
 
 Conclusion:
 As a devoted Spotify user, the integration of N-gen and Airbuds adds a layer of personalization and social connection to my music journey. Spotify's embrace of third-party creativity through its API opens the door to a myriad of possibilities, turning music consumption into a visual and social experience. The harmonious blend of data and creativity exemplifies the ever-evolving landscape of music streaming, making every listening session a unique and visually enchanting adventure.
