@@ -9,7 +9,7 @@ N-gen, a gem among third-party Spotify integrations, allows users to visualize t
 
 The brilliance of N-gen lies in its ability to turn raw data into something visually engaging. The Top Ten, Bloom, and Chord artwork options offer users a personalized touch to their Spotify experience. As a user, I appreciate the effortlessness of the process—from connecting Spotify to generating the artwork, N-gen ensures a smooth and enjoyable interaction.
 
-![N-Gen DNA Top Artists Last 6 Months](ux-portfolio-AbramHernandez/assets/N-Gen%20DNA%20Top%20Artists%20Last%206%20Months.png)
+![N-Gen DNA Top Artists Last 6 Months](/ux-portfolio-AbramHernandez/assets/N-Gen%20DNA%20Top%20Artists%20Last%206%20Months.png)
 
 Spotify's Open Arms to Third-Party Creativity:
 What makes N-gen and similar platforms possible is Spotify's API, granting developers access to a treasure trove of user data. This open-door policy has birthed a variety of third-party integrations beyond just visualizations.
