@@ -12,4 +12,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Harmonizing Art and Music: Exploring Spotify's API and Third-Party Integrations](j01/)
