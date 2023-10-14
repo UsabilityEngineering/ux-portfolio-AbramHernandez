@@ -21,7 +21,7 @@ Beyond personal visualizations, I've discovered another intriguing app called Ai
 
 The integration is seamless—Airbuds taps into Spotify's API to fetch real-time data on my friends' listening habits. The widget on my homescreen acts as a musical window into their world, fostering a sense of shared musical discovery.
 
-![Screenshot of my Homescreen](ux-portfolio-AbramHernandez/assets/Homescreen.png)
+![Screenshot of my Homescreen](assets/Homescreen.png)
 ![Screenshot of Trending Songs with my Friends](ux-portfolio-AbramHernandez/assets/Trending%20songs.png)
 
 Conclusion:
