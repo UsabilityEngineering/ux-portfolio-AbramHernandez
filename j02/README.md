@@ -2,35 +2,33 @@
 
 I found myself once again immersed in the melodic embrace of Spotify, navigating its intricate interface that seems to understand my musical personality. I’m always interacting with Spotify's UX design and it's a journey of seamless interaction and delightful discovery. For years, I've resisted the urge to venture into the realms of other platforms like Apple Music, or Youtube music, not because of a lack of features or content, but because, quite frankly, everything else seems to pale in comparison when it comes to visual charm.
 
-Morning Harmony:
+<H3>Morning Harmony</H3>
 
 As the day began, I instinctively opened the Spotify app, greeted by a homepage that felt like a curated portal to my musical haven. The personalized playlists and recommendations were laid out like a musical tapestry, inviting me to explore genres, artists, and moods tailored precisely to my taste. The intuitive design made it effortless to dive into the day's soundtrack, a testament to Spotify's commitment to personalization and accessibility.
 
 <img src="Spotify_Home.PNG" width=25% height=25%>
 
-Discovering Daily Mixes:
+<H3>Discovering Daily Mixes:</H3>
 
 A highlight of my day unfolded with the introduction of my Daily Mixes—a personalized medley of genres that Spotify intuitively knew would resonate with my current mood. The seamless integration of this feature showcased the platform's commitment to learnability and adaptability. Each mix felt like a carefully crafted playlist, a musical companion guiding me through the day's diverse sonic landscapes.
 
 <img src="Spotify_Search.PNG" width=25% height=25%>
 
-Effortless Exploration:
+<H3>Effortless Exploration:</H3>
 
 Navigating through the app felt like a rhythmic flow. The bottom navigation bar, adorned with familiar icons for Home, Search, Your Library, and Premium, served as my compass in this musical journey. Whether I sought the comfort of my saved library or ventured into the vast world of new releases, the UX design facilitated an effortless exploration. It's a testament to the simplicity that amplifies the efficiency of navigation, making my daily interaction with Spotify a joyous ritual.
 
 <img src="Spotify_Library.PNG" width=25% height=25%>
 
-Anticipation Builds:
+<H3>Anticipation Builds:</H3>
 
 Every year I’m excited for Spotify Wrapped, an annual ritual that adds a layer of excitement to the end of the year. The anticipation was not just about the numbers but about revisiting the memories associated with each song, reliving the emotions they evoked, and celebrating the diversity of my musical taste. Wrapped became a joyful part of the new year for me, its like a personal celebration marking the culmination of my year in music.
 
 <img src="Spotify_Wrapped_Intro.PNG" width=25% height=25%>
 
-Spotify Wrapped Unveiled:
+<h3>Spotify Wrapped Unveiled:</h3>
 
-As the day drew to a close, I eagerly opened Spotify to witness the unveiling of my Wrapped. The UX design transformed data into a visual narrative, a story of my year in music. Animated graphics and personalized statistics guided me through a visually compelling journey, making the experience not just informative but truly enjoyable. The interactivity allowed me to delve into specific categories, creating a sense of agency in my exploration. It wasn't just a list of statistics. It was an interactive and exploratory adventure
-.
-As I eagerly embarked on the annual ritual of unwrapping my Spotify Wrapped, the platform gracefully unfolded a visual symphony of musical insights that transcended mere statistics. The journey commenced with a mesmerizing display of the genres that had colored my year in music, a kaleidoscope of sonic diversity that reflected the myriad facets of my musical taste.
+As the day drew to a close, I eagerly opened Spotify to witness the unveiling of my Wrapped. The UX design transformed data into a visual narrative, a story of my year in music. Animated graphics and personalized statistics guided me through a visually compelling journey, making the experience not just informative but truly enjoyable. The interactivity allowed me to delve into specific categories, creating a sense of agency in my exploration. It wasn't just a list of statistics. It was an interactive and exploratory adventure. As I eagerly embarked on the annual ritual of unwrapping my Spotify Wrapped, the platform gracefully unfolded a visual symphony of musical insights that transcended mere statistics. The journey commenced with a mesmerizing display of the genres that had colored my year in music, a kaleidoscope of sonic diversity that reflected the myriad facets of my musical taste.
 
 <img src="Spotify_Genre_Sandwhich.PNG" width=25% height=25%>
 
@@ -63,7 +61,7 @@ The monthly breakdown of each artist was the grand finale, a visual journey thro
 
 In the grand orchestra of Spotify Wrapped, these revelations weren't just numbers and charts. They were visual notes composing a personalized symphony. Each insight became a brushstroke on the canvas of my year, creating a visual masterpiece that celebrated the diversity, connectivity, and sheer joy that music brought into my life. Spotify Wrapped wasn't just a recap. It was a visual ode to the magic of music, a testament to the platform's ability to turn data into a vibrant and resonant visual journey.
 
-Sharing the Musical Journey:
+<h3>Sharing the Musical Journey:</h3>
 
 The social sharing brilliance of Spotify Wrapped added a communal layer. Effortlessly integrating with various social media platforms, it turned individual revelations into shared conversations. Posting my Wrapped results on Instagram became a social event, an invitation for followers, friends, and fellow music enthusiasts to engage in a dialogue about the year's musical highlights. The sociable aspect extended beyond the digital realm, sparking real conversations about shared tastes, discoveries, and the emotional journeys attached to specific songs.
 
