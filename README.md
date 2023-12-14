@@ -13,3 +13,5 @@ Coming soon.
 ## UX Journal
 
 [Harmonizing Art and Music: Exploring Spotify's API and Third-Party Integrations](j01/)
+
+[Spotify's Aesthetic: A UI Journey Through Spotify and Spotify Wrapped](j02/)
