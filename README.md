@@ -8,7 +8,7 @@ Let's create better experiences together.
 
 ## UX Team Project
 
-Coming soon.
+[FriendHub](ChicoState/UX-FriendHub)
 
 ## UX Journal
 
