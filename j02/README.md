@@ -1,10 +1,44 @@
 # Spotify's Aesthetic: A UI Journey Through Spotify and Spotify Wrapped
 
-I found myself once again immersed in the melodic embrace of Spotify, navigating its intricate interface that seems to understand my musical personality. I’m always interacting with Spotify's UX design and it's a journey of seamless interaction and delightful discovery. For years, I've resisted the urge to venture into the realms of other platforms like Apple Music, or Youtube music, not because of a lack of features or content, but because, quite frankly, everything else seems to pale in comparison when it comes to visual charm.
+I found myself once again immersed in the melodic embrace of Spotify, navigating its intricate interface that seems to understand my musical personality. I’m always interacting with Spotify's UX design and it's a journey of seamless interaction and delightful discovery. For years, I've resisted the urge to venture into the realms of other platforms like Apple Music, or Youtube music, not because of a lack of features or content, but because, quite frankly, everything else seems to pale in comparison when it comes to visual charm. The goals were clear: relive the musical highlights of the past year in a visually engaging and emotionally resonant manner.
 
-<H3>Morning Harmony</H3>
+<H3>Goals</H3>
+
+My primary goal was to understand how well Spotify Wrapped facilitated the journey of reliving my musical highlights and whether it effectively communicated my musical story.
+
+<H3>Description of Interaction</H3>
 
 As the day began, I instinctively opened the Spotify app, greeted by a homepage that felt like a curated portal to my musical haven. The personalized playlists and recommendations were laid out like a musical tapestry, inviting me to explore genres, artists, and moods tailored precisely to my taste. The intuitive design made it effortless to dive into the day's soundtrack, a testament to Spotify's commitment to personalization and accessibility.
+
+A notification beckoned me to explore my Wrapped experience. The entry point was seamless, with a visually appealing banner drawing my attention. As I clicked through, a series of visuals greeted me—starting with a vibrant display of genres, followed by geographic insights, top songs, total listening minutes, and a spotlight on the artists who colored my year.
+
+The interactive journey allowed me to delve deeper into each category, revealing monthly breakdowns, personalized playlists, and even a Listening Personality test—a surprise addition that added a delightful twist to the experience.
+
+<H3>Outcome</H3>
+
+The outcome was a captivating visual narrative that went beyond the numbers. Spotify Wrapped succeeded in not only presenting statistics but transforming them into a personalized, emotionally resonant journey. The experience was effective in achieving my goal of reliving the musical highlights, providing a visually engaging and accessible interface for exploration.
+
+**Assessment of UX Concepts:**
+
+**Learnable:**
+
+Strength: The navigation through Spotify Wrapped was intuitive, leveraging familiar symbols and cues. Each section seamlessly led to the next, requiring minimal effort to understand the app's structure.
+
+**Memorable:** 
+
+Strength: Visual elements, such as vibrant color schemes and animated graphics, contributed to a memorable experience. The surprise factor of the Listening Personality test added a memorable and enjoyable twist.
+Weakness: The monthly breakdowns, while comprehensive, could benefit from more visually distinctive elements to enhance memorability.
+
+**Satisfying:**
+
+Strength: Emotional resonance was a significant achievement. Personalized insights, especially the top songs and artists, fostered a sense of connection and ownership, contributing to a satisfying experience.
+Weakness: Limited prominence of the monthly breakdowns might leave some users wanting a more comprehensive exploration, potentially affecting overall satisfaction.
+
+**Suggestions:**
+
+Provide brief tooltips or explanations for new features to enhance clarity.
+Include a prominent link to access detailed monthly breakdowns for users who wish to explore their musical journey more comprehensively.
+*In conclusion, Spotify Wrapped proved to be more than a feature—it was a UX journey that seamlessly blended aesthetics, emotion, and functionality. As I eagerly await the next musical chapter, the usability and user experience excellence of Spotify Wrapped remain a benchmark in the realm of interactive and visually compelling digital experiences. Cheers to the music and the magic of user-centric design!
 
 <img src="Spotify_Home.PNG" width=25% height=25%>
 
