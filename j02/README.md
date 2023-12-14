@@ -6,7 +6,7 @@ Morning Harmony:
 
 As the day began, I instinctively opened the Spotify app, greeted by a homepage that felt like a curated portal to my musical haven. The personalized playlists and recommendations were laid out like a musical tapestry, inviting me to explore genres, artists, and moods tailored precisely to my taste. The intuitive design made it effortless to dive into the day's soundtrack, a testament to Spotify's commitment to personalization and accessibility.
 
-![Screenshot of my Spotify Homepage](Spotify_Home.png)
+![Screenshot of my Spotify Homepage](Spotify_Home.PNG)
 
 Discovering Daily Mixes:
 
@@ -18,7 +18,7 @@ Effortless Exploration:
 
 Navigating through the app felt like a rhythmic flow. The bottom navigation bar, adorned with familiar icons for Home, Search, Your Library, and Premium, served as my compass in this musical journey. Whether I sought the comfort of my saved library or ventured into the vast world of new releases, the UX design facilitated an effortless exploration. It's a testament to the simplicity that amplifies the efficiency of navigation, making my daily interaction with Spotify a joyous ritual.
 
-![Screenshot of my Spotify Library](Spotify_Library.png)
+![Screenshot of my Spotify Library](Spotify_Library.PNG)
 
 
 
@@ -31,7 +31,7 @@ Anticipation Builds:
 
 Every year I’m excited for Spotify Wrapped, an annual ritual that adds a layer of excitement to the end of the year. The anticipation was not just about the numbers but about revisiting the memories associated with each song, reliving the emotions they evoked, and celebrating the diversity of my musical taste. Wrapped became a joyful part of the new year for me, its like a personal celebration marking the culmination of my year in music.
 
-![Screenshot of my Spotify Wrapped Intro](Spotify_Wrapped_Intro.png)
+![Screenshot of my Spotify Wrapped Intro](Spotify_Wrapped_Intro.PNG)
 
 Spotify Wrapped Unveiled:
 
